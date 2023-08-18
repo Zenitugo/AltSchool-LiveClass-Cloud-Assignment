@@ -50,6 +50,16 @@ Command `cat /etc/group` was used to see if the group was created
 ![list of grouos](./images/as%209.png)
 
 
+## ALLOW ALTSCHOOL1 GROUP TO BE ABLE TO RUN ONLY CAT COMMAND
+Command `vi sudo` was used to open the sudo file to imput the configurations 
+
+![Open Sudo file](./images/as%2015.png)
+
+![Configurations added](./images/as%2016.png)
+
+
+
+
 ##  CREATE ANOTHER USER AND MAKE SURE THE USER IS NOT IN THE HOME DIRECTORY
 Another user called amos was created
 
